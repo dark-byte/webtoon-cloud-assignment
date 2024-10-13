@@ -1,0 +1,4 @@
+Auto Scaling Configuration:
+- Auto-scaling triggers based on CPU utilization (scale out when CPU exceeds 70%).
+- Minimum instance count: 1, Maximum instance count: 5.
+- Load balancer distributes traffic across instances.

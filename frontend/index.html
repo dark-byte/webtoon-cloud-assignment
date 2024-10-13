@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manhwa List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Fantasy Manhwa List</h1>
+    <div id="manhwa-list"></div>
+
+    <script>
+        fetch('/api/manhwa')
+        .then(response => response.json())
+        .then(data => {
+            const manhwaList = document.getElementById('manhwa-list');
+            data.forEach(manhwa => {
+                const manhwaDiv = document.createElement('div');
+                manhwaDiv.className = 'manhwa-item';
+                manhwaDiv.innerHTML = `
+                    <h2>${manhwa.title}</h2>
+                    <p><strong>Genre:</strong> ${manhwa.genre}</p>
+                    <p>${manhwa.description}</p>
+                    <img src="${manhwa.image_url}" alt="${manhwa.title} cover">
+                `;
+                manhwaList.appendChild(manhwaDiv);
+            });
+        });
+    </script>
+</body>
+</html>

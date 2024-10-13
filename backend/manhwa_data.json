@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Solo Leveling",
+    "genre": "Fantasy",
+    "description": "A hunter rises through the ranks to become the most powerful after gaining a mysterious system.",
+    "image_url": "https://your-s3-bucket-url/solo-leveling.jpg"
+  },
+  {
+    "title": "Tower of God",
+    "genre": "Adventure",
+    "description": "A boy enters a mysterious tower in search of his lost friend, but must face countless trials.",
+    "image_url": "https://your-s3-bucket-url/tower-of-god.jpg"
+  }
+]
