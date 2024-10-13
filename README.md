@@ -7,6 +7,8 @@ instances for hosting the Node.js application, S3 for storing static assets (ima
 managing the Node.js process, and AWS Auto Scaling with a Load Balancer to ensure high
 availability and scalability.
 
+Access the demo at - http://webtoon-lb-1506701675.ap-south-1.elb.amazonaws.com/
+
 ## Installation
 
 Clone the repo
