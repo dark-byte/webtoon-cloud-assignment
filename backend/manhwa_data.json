@@ -3,12 +3,120 @@
     "title": "Solo Leveling",
     "genre": "Fantasy",
     "description": "A hunter rises through the ranks to become the most powerful after gaining a mysterious system.",
-    "image_url": "https://your-s3-bucket-url/solo-leveling.jpg"
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_0.jpg"
   },
   {
     "title": "Tower of God",
     "genre": "Adventure",
     "description": "A boy enters a mysterious tower in search of his lost friend, but must face countless trials.",
-    "image_url": "https://your-s3-bucket-url/tower-of-god.jpg"
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_1.jpg"
+  },
+  {
+    "title": "The Beginning After The End",
+    "genre": "Reincarnation",
+    "description": "A king is reincarnated into another world, but he struggles with his new role and responsibilities.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_2.jpg"
+  },
+  {
+    "title": "God of High School",
+    "genre": "Action",
+    "description": "Martial artists from around the world compete in a tournament that determines the strongest fighter.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_3.jpg"
+  },
+  {
+    "title": "Noblesse",
+    "genre": "Action, Supernatural",
+    "description": "A powerful noble awakens from a long slumber and must protect his new friends from dark forces.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_4.jpg"
+  },
+  {
+    "title": "Let's Play",
+    "genre": "Slice of Life, Comedy",
+    "description": "A girl struggles to make friends and finds solace in her passion for video games and streaming.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_5.jpg"
+  },
+  {
+    "title": "I Love Yoo",
+    "genre": "Romance, Comedy",
+    "description": "A girl who dislikes romance becomes entangled with two brothers, leading to unexpected feelings.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_6.jpg"
+  },
+  {
+    "title": "Age Matters",
+    "genre": "Romance, Slice of Life",
+    "description": "A woman in her 29s finds herself working for a younger CEO and navigating their relationship.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_7.jpg"
+  },
+  {
+    "title": "True Beauty",
+    "genre": "Romance, Comedy",
+    "description": "A girl transforms herself into a beauty using makeup, but struggles with her self-image.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_8.jpg"
+  },
+  {
+    "title": "My Dear Cold-Blooded King",
+    "genre": "Historical, Romance",
+    "description": "A girl finds herself caught up in a web of intrigue and romance with a mysterious king.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_9.jpg"
+  },
+  {
+    "title": "Let's Play! Dungeon",
+    "genre": "Fantasy, Adventure",
+    "description": "Join a group of heroes as they embark on an epic quest in a world filled with monsters and magic.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_10.jpg"
+  },
+  {
+    "title": "Spirit Fingers",
+    "genre": "Slice of Life, Comedy",
+    "description": "A girl discovers a group of friends who help her find her passion for art and self-expression.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_11.jpg"
+  },
+  {
+    "title": "A Good Day to Be a Dog",
+    "genre": "Fantasy, Romance",
+    "description": "A woman turns into a dog when kissed, and she must navigate her new life and romance.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_12.jpg"
+  },
+  {
+    "title": "Something About Us",
+    "genre": "Romance, Drama",
+    "description": "Two best friends navigate their feelings for each other and the complexities of love.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_13.jpg"
+  },
+  {
+    "title": "Siren's Lament",
+    "genre": "Fantasy, Romance",
+    "description": "A girl finds herself drawn into a world of sirens and must choose between love and duty.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_14.jpg"
+  },
+  {
+    "title": "Lore Olympus",
+    "genre": "Fantasy, Romance",
+    "description": "A modern retelling of the story of Hades and Persephone in a colorful and vibrant world.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_15.jpg"
+  },
+  {
+    "title": "The Remarried Empress",
+    "genre": "Historical, Romance",
+    "description": "A queen must navigate the complexities of love and power after remarrying.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_16.jpg"
+  },
+  {
+    "title": "Cheese in the Trap",
+    "genre": "Romance, Drama",
+    "description": "A college student navigates her complicated relationship with a charming senior.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_17.jpg"
+  },
+  {
+    "title": "The Devil's Boy",
+    "genre": "Fantasy, Romance",
+    "description": "A girl becomes entangled with a mysterious boy who harbors dark secrets.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_18.jpg"
+  },
+  {
+    "title": "Hunting the Divine",
+    "genre": "Fantasy, Action",
+    "description": "In a world where gods walk among humans, a young warrior hunts to reclaim his lost family.",
+    "image_url": "https://webtoon-image-bucket.s3.ap-south-1.amazonaws.com/image_19.jpg"
   }
 ]
