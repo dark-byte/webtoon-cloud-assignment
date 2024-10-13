@@ -7,6 +7,10 @@ const manhwaData = require('./manhwa_data.json');
 
 app.use(express.static('public'));
 
+
+// Serve static files from the 'frontend' directory
+app.use(express.static(path.join(__dirname, '../frontend')));
+
 // Serve index.html at the root path
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, '../frontend/index.html'));
