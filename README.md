@@ -7,6 +7,21 @@ instances for hosting the Node.js application, S3 for storing static assets (ima
 managing the Node.js process, and AWS Auto Scaling with a Load Balancer to ensure high
 availability and scalability.
 
+## Installation
+
+Clone the repo
+
+```bash
+  git clone https://github.com/dark-byte/webtoon-cloud-assignment
+  cd webtoon-cloud-assignment/backend
+```
+    
+Run the App
+
+```bash
+  node app.js
+```
+
 
 ## 1. EC2 Instance Usage
 
@@ -104,17 +119,3 @@ reasons.
 #### HTTPS: 
 The application uses HTTPS to secure all communication between the client
 and the server, ensuring that sensitive data is transmitted securely
-## Installation
-
-Clone the repo
-
-```bash
-  git clone https://github.com/dark-byte/webtoon-cloud-assignment
-  cd webtoon-cloud-assignment/backend
-```
-    
-Run the App
-
-```bash
-  node app.js
-```
