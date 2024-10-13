@@ -1,0 +1,6 @@
+launch-wizard-1
+
+Type,  Protocol, Port Range, Source
+http,  tcp,      80,         0.0.0.0/0
+ssh,   tcp,      22,         0.0.0.0/0
+https, tcp,      443,        0.0.0.0/0

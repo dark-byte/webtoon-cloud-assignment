@@ -1,5 +1,4 @@
 #!/bin/bash
-# This script sets up the EC2 instance and deploys the web application
 
 # Update system
 sudo yum update -y
@@ -10,9 +9,10 @@ curl -sL https://rpm.nodesource.com/setup_16.x | sudo bash -
 sudo yum install -y nodejs
 
 # Clone the repository
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/dark-byte/webtoon-cloud-assignment
+cd webtoon-cloud-assignment/backend
 
 # Install dependencies and start the app
 npm install
-node app.js
+pm2 start app.js --name webtoon-app
+

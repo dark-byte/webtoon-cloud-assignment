@@ -1,0 +1,8 @@
+Launch Template Configuration:
+
+Template name: webtoon-launch-template
+AMI: Amazon ami-0d1622042e957c247 (Amazon Linux 2 AMI)
+Instance Type: t2.micro
+Key Pair: mac.pem
+Storage: default
+Security Group: launch-wizard-1

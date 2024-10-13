@@ -1,0 +1,14 @@
+[
+    {
+        "AllowedHeaders": [
+            "*"
+        ],
+        "AllowedMethods": [
+            "GET"
+        ],
+        "AllowedOrigins": [
+            "http://3.108.220.35"
+        ],
+        "ExposeHeaders": []
+    }
+]

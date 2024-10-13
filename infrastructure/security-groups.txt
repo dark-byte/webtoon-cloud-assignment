@@ -1,4 +1,0 @@
-Security Groups Configuration:
-- Allow incoming traffic on port 80 (HTTP) and 443 (HTTPS).
-- Restrict all other ports.
-- Only allow SSH from specific IPs for security.
